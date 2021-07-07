@@ -21,4 +21,4 @@ I am a PhD student in Advanced Infrastructure System Group at Department of Civi
 
 My current research interest is to mitigate work zone crash risk using causal inference methods based on Potential Outcome Framework and Directed Acyclic Graphs, such as Regression Discontinuity Design, sequential g-estimation methods, and linear non-gaussian acyclic model (LiNGAM).
 
-Here are my [resume](../assets/pdf/example_pdf.pdf).
+Here is my [resume](./assets/pdf/ZhuoranZhang_resume.pdf).
